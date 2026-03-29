@@ -45,8 +45,8 @@ darkMode   = "Dark Mode"
         title = "Categories"
 
 [search]
-    title       = "Search"
-    placeholder = "Type something..."
+    title       = "Tìm kiếm"
+    placeholder = "Nhập gì đó đi..."
     resultTitle = "#PAGES_COUNT pages (#TIME_SECONDS seconds)"
 
 [footer]
