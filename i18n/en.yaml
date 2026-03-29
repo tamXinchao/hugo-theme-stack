@@ -57,10 +57,10 @@ widget:
 
 search:
     title:
-        other: Search
+        other: Tìm kiếm
 
     placeholder:
-        other: Type something...
+        other: Nhập gì đó đi...
 
     resultTitle:
         other: "#PAGES_COUNT pages (#TIME_SECONDS seconds)"
